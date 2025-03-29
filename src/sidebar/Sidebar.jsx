@@ -12,7 +12,7 @@ function Sidebar() {
       </div>
 
       <div className='sidebarItem'>
-        <span className="sidebarTitle">Categories</span>
+        <span className="sidebarTitle">CATEGORIES</span>
         <ul className="sidebarList">
           <li className="sidebarListItem">Life</li>
           <li className="sidebarListItem">Music</li>
@@ -25,9 +25,9 @@ function Sidebar() {
 
       <div className="sidebarItem">
         <span className="sidebarTitle">FOLLOW US</span>
-        <div className="siderbarSocial">
-          
-
+        <div className="sidebarSocial">
+          <i className="sidebarIcon fa-brands fa-github"></i>
+          <i className="sidebarIcon fa-brands fa-pinterest"></i>
         </div>
       </div>
 
