@@ -1,6 +1,6 @@
 import React from 'react'
 import './header.css'
-import hpImage from "../assets/home_page.jpeg";
+import hpImage from "../../assets/home_page.jpeg";
 
 function Header() {
   return (

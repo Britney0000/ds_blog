@@ -1,6 +1,6 @@
 import React from 'react'
 import "./sidebar.css"
-import officeImage from "../assets/office.jpeg";
+import officeImage from "../../assets/office.jpeg";
 
 function Sidebar() {
   return (

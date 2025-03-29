@@ -1,6 +1,6 @@
 import React from 'react'
 import './topbar.css'
-import dsImage from "../assets/ds.jpeg";
+import dsImage from "../../assets/ds.jpeg";
 
 
 
